@@ -31,6 +31,9 @@ Criar um **modelo de página inicial profissional e responsiva**, ideal para ser
 ### 💻 Visualização Desktop
 ![Desktop](https://github.com/CarlosRocha-98/Wide.Coverage/blob/main/Wide-Coverage%20PC.png)
 
+### 🔳 Visualização Tablet
+![Tablet](https://github.com/CarlosRocha-98/Modelo-De-Site1/blob/main/Tablet.png)
+
 ### 📱 Visualização Mobile
 ![Mobile](https://github.com/CarlosRocha-98/Wide.Coverage/blob/main/Wide-Coverage%20Celular.png)
 
