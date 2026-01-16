@@ -35,7 +35,7 @@ Criar um **modelo de página inicial profissional e responsiva**, ideal para ser
 ![Tablet](https://github.com/CarlosRocha-98/Modelo-De-Site1/blob/main/Tablet.png)
 
 ### 📱 Visualização Mobile
-![Mobile](https://github.com/CarlosRocha-98/Wide.Coverage/blob/main/Wide-Coverage%20Celular.png)
+![Mobile](https://github.com/CarlosRocha-98/Modelo-De-Site1/blob/main/Mobile.PNG)
 
 > 💡 As imagens acima mostram a responsividade e o design do projeto em diferentes dispositivos.
 
